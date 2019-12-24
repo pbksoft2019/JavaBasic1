@@ -1,3 +1,4 @@
+import static java.lang.String.*;
 public class JavaBasic {
     public static void remove() {      // this method removes letter s from string
         String sample = "This is very easy programme"; // sample string
